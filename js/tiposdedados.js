@@ -21,7 +21,8 @@ object = {
 boolean = true;
 boolean = false;
 // Undefined
-
+var und;
+console.log(und);
 // Null
 
 // NaN
